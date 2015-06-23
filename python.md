@@ -29,7 +29,7 @@ print('Lorem ipsum dolor sit amet, consectetur adipiscing elit.  Donec a'
       ' ac  quam viverra nec consectetur ante hendrerit.')
 ```
 
-You can also cut after a colon
+You can also cut after a comma
 ```
 foo = long_function_name(var one, var two,
                          var three, var four)
